@@ -1,0 +1,15 @@
+.image1 img{
+    width: 400px;
+    height: 350px;
+    /*transform:translateX(1000px);*/
+}
+.image2 img{
+    width: 400px;
+    height: 350px;
+    /*transform:translateY(600px);*/
+}
+.image3 img{
+    width: 400px;
+    height: 350px;
+    /*transform:translateY(1000px);*/
+}
