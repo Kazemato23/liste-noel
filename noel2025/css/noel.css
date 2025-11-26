@@ -14,11 +14,8 @@
     /*transform:translateY(1000px);*/
 }
 body{
-    /*background:radial-gradient(circle,rgb(255, 255, 255) , rgb(255, 0, 0));*/
-    background-image: url("../image/fond2.jpg");
-    background-size: cover;        /* L’image couvre tout l’écran */
-    background-repeat: repeat;  /* répétition */
-    background-position: center;   /* Centrée */
-
-}
-
+    background:radial-gradient(circle,rgba(227, 77, 77, 0.621) , rgb(255, 0, 0));
+    
+} /*background-size: cover;        /* L’image couvre tout l’écran */
+   /* background-repeat: repeat;  /* répétition */
+   /* background-position: center;   /* Centrée */
