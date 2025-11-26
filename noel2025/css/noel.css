@@ -13,3 +13,11 @@
     height: 350px;
     /*transform:translateY(1000px);*/
 }
+body{
+    /*background:radial-gradient(circle,rgb(255, 255, 255) , rgb(255, 0, 0));*/
+    background-image: url("../image/fond2.jpg");
+    background-size: cover;        /* L’image couvre tout l’écran */
+    background-repeat: no-repeat;  /* Pas de répétition */
+    background-position: center;   /* Centrée */
+
+}
