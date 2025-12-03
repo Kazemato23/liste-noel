@@ -19,8 +19,8 @@ body{
 } 
 @media(max-width:600px){
     img{
-        width: 70%;
-        height: 70%;
+        width: 60%;
+        height: 60%;
     }
 }
 
@@ -28,5 +28,6 @@ body{
 /*background-size: cover;        /* L’image couvre tout l’écran */
    /* background-repeat: repeat;  /* répétition */
    /* background-position: center;   /* Centrée */
+
 
 
